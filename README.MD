@@ -1,0 +1,1 @@
+This repository is meant to help anyone looking to upgrade their Sovol SV06 Plus from the stock mainboard to a BigTreeTech Manta E3EZ with Klipper.
