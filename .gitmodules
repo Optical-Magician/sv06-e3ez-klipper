@@ -1,9 +1,9 @@
 [submodule "Manta-E3EZ"]
-	path = Manta-E3EZ
+	path = Sources/Manta-E3EZ
 	url = https://github.com/bigtreetech/Manta-E3EZ.git
 [submodule "Sovol-SV06-Plus/SV06-PLUS"]
-	path = Sovol-SV06-Plus/SV06-PLUS
+	path = Sources/SV06-PLUS
 	url = https://github.com/Sovol3d/SV06-PLUS.git
 [submodule "Sovol-SV06-Plus/SV06-Fully-Open-Source"]
-	path = Sovol-SV06-Plus/SV06-Fully-Open-Source
+	path = Sources/SV06-Fully-Open-Source
 	url = https://github.com/Sovol3d/SV06-Fully-Open-Source.git
